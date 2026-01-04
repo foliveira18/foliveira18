@@ -32,7 +32,7 @@ If useful, I can add a curated list here:
 - ORCID: <https://orcid.org/my-orcid?orcid=0000-0003-4357-1607>
 ##- Selected papers / reports: <ADD LINKS / DOIs>
 
-> Tip: if you share research code/data here, you can add a `CITATION.cff` file so GitHub shows a “Cite this repository” widget.  [oai_citation:1‡GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files?utm_source=chatgpt.com)
+##> Tip: if you share research code/data here, you can add a `CITATION.cff` file so GitHub shows a “Cite this repository” widget.  [oai_citation:1‡GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files?utm_source=chatgpt.com)
 
 ## What I’m exploring now
 - Tiny decision-support loops (capture → suggestion → execution) that feel “alive” and reduce friction
@@ -40,7 +40,7 @@ If useful, I can add a curated list here:
 
 ## Contact
 - Email: foliveira18@gmail.com
-- LinkedIn: <ADD LINK>
+- LinkedIn: <https://www.linkedin.com/in/foliveira18/>
 
 ---
 
