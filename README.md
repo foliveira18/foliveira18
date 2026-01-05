@@ -5,13 +5,6 @@ I build practical, lightweight tools that turn messy real-world decisions into s
 - **Current:** Head of Division (Analytics, Data & Modelling) — OECD, Trade & Agriculture
 - **Interests:** decision support, behavioral design, applied analytics, product demos, rapid prototyping
 
-## Live demos
-
-- **Pathfinder (landing):** https://foliveira18.github.io/pathfinder/
-- **Pathfinder (live demo):** https://pathfinder-demo-eight.vercel.app
-
-> Demo note: runs on **localStorage** (no backend) to keep it fast to test.
-
 ## Featured projects
 
 ### Pathfinder — “30-second daily coach”
@@ -22,6 +15,8 @@ A quick daily check-in (Energy / Calm / Mood / Focus) that returns an immediate 
 - Repos:
   - Landing page code: https://github.com/foliveira18/pathfinder
   - Demo app code: https://github.com/foliveira18/pathfinder-demo
+
+> Demo note: runs on **localStorage** (no backend) to keep it fast to test.
 
 ## Writing & research
 
