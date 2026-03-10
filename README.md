@@ -30,16 +30,15 @@ Research profiles:
 
 ## Writing
 
-I write essays and short analytical pieces about **decision-making, risk, artificial intelligence, and economic systems**.
+I also develop longer-form essays and book manuscripts exploring the conceptual foundations of decision-making, risk, and complex systems.
 
 Substack publications:
 
-- **Become Tomorrow** — essays on decision-making, systems thinking, and AI  
-  https://becametomorrow.substack.com
-
-- **Risk Analysis Notebook** — research notes, modelling ideas, and analytical frameworks  
+- **Risk Analysis Notebook** — research notes and draft chapters from a book project on risk analysis, decision theory, and quantitative modelling of uncertainty.  
   https://riskanalysis.substack.com
 
+- **Become Tomorrow** — essays exploring the philosophical and scientific implications of artificial intelligence, technological evolution, and the future of human decision-making.  
+  https://becametomorrow.substack.com
 ---
 
 ## Projects
