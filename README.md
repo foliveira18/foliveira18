@@ -19,7 +19,7 @@ Peer-reviewed publications in operations research, energy economics, decision sc
 https://foliveira18.github.io/published_articles/
 
 - **Risk Analytics Book** — draft chapters of the book *Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making*  
-https://github.com/foliveira18/risk-analytics-book
+https://foliveira18.github.io/risk-analytics-book/
 
 Research profiles:
 
