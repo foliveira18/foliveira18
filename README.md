@@ -16,7 +16,7 @@ My work connects **operations research, artificial intelligence, and economic po
 Peer-reviewed publications in operations research, energy economics, decision science, and information systems.
 
 - **Academic papers repository:**  
-  https://github.com/foliveira18/published_articles
+https://foliveira18.github.io/published_articles/
 
 - **Risk Analytics Book** — draft chapters of the book *Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making*  
 https://github.com/foliveira18/risk-analytics-book
